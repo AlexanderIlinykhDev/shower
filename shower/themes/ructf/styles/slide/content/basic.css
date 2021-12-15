@@ -1,11 +1,26 @@
 /* Basic */
 
 .slide h2 {
-    margin-top: 9px;
-    margin-bottom: 33px;
+    margin: 0px 0px 0px 0px;
     color: var(--color-grey);
     font: bold 50px/1 'PT Sans Narrow', sans-serif;
 }
+
+.text-content {
+    margin: 0px 0px 74px 96px;
+}
+.text-content h2 {
+    margin: 0px 0px 0px 0px;
+    color: var(--color-black);
+    font: 45px 'Akrobat-SemiBold', sans-serif;
+}
+
+.text-content h3 {
+    margin: 0px 0px 0px 0px;
+    color: var(--color-black);
+    font: bold 50px/1 'Akrobat-Black', sans-serif;
+}
+
 
 .slide * + h2 {
     margin-top: 41px;

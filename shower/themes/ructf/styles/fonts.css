@@ -62,3 +62,24 @@
         local('PTMono-Regular'),
         url('../fonts/pt-mono-regular.woff2') format('woff2');
 }
+
+
+/* ructf fonts */
+
+@font-face {
+    font-family: 'Akrobat-Black';
+    font-display: swap;
+    src:
+        local('Akrobat'),
+        local('Akrobat-Black'),
+        url('../fonts/Akrobat-Black.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Akrobat-SemiBold';
+    font-display: swap;
+    src:
+        local('Akrobat'),
+        local('Akrobat-SemiBold'),
+        url('../fonts/Akrobat-SemiBold.woff2') format('woff2');
+}
