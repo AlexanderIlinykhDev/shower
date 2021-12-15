@@ -55,5 +55,5 @@
     line-height: 18px;
     text-align: center;
     counter-increment: slide;
-    content: counter(slide);
+    /*content: counter(slide);*/
 }
