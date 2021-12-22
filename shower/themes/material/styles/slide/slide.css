@@ -41,7 +41,7 @@
         0 var(--slide-left-side);
     width: var(--slide-width);
     height: var(--slide-height);
-    background-color: white;
+    background-color: rgb(204, 186, 156);
 }
 
 /* Number */

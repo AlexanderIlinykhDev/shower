@@ -43,7 +43,7 @@
     justify-content: flex-end;
     width: var(--slide-width);
     height: var(--slide-height);
-    background-color: white;
+    background-color: rgb(189, 130, 130);
 }
 
 .slide::after {

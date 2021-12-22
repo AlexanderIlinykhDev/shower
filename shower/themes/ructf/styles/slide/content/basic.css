@@ -6,22 +6,6 @@
     font: bold 50px/1 'PT Sans Narrow', sans-serif;
 }
 
-.text-content {
-    margin: 0px 0px 74px 96px;
-}
-.text-content h2 {
-    margin: 0px 0px 0px 0px;
-    color: var(--color-black);
-    font: 45px 'Akrobat-SemiBold', sans-serif;
-}
-
-.text-content h3 {
-    margin: 0px 0px 0px 0px;
-    color: var(--color-black);
-    font: bold 50px/1 'Akrobat-Black', sans-serif;
-}
-
-
 .slide * + h2 {
     margin-top: 41px;
 }
@@ -37,4 +21,38 @@
 
 .slide figure {
     margin: 0;
+}
+
+/* ructf defined */ 
+
+.text-content {
+    margin: 0px 0px 74px 96px;
+    background: rgb(0,0,0,0);
+}
+
+.text-content h2 {
+    margin: 0px 0px 0px 0px;
+    color: var(--color-black);
+    font: 96px 'Akrobat-Black', sans-serif;
+}
+
+.text-content h3 {
+    margin: 0px 0px 0px 0px;
+    color: var(--color-black);
+    font: 45px 'Akrobat-SemiBold', sans-serif;
+}
+
+.text-content p {
+    margin: 0px 0px 0px 0px;
+    color: var(--color-black);
+    font: bold 50px/1 'Akrobat-Black', sans-serif;
+}
+
+.right-side-image {
+background: rgb(0,0,0,0);
+position: absolute;
+width: 733px;
+height: 1080px;
+left: 1187px;
+top: 0px;
 }
